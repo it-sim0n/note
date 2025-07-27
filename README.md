@@ -27,8 +27,8 @@ A simple Bash script to manage notes directly from the terminal. Add, view, dele
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/it-sim0n/simonnote.git
-   cd simonnote
+   git clone https://github.com/it-sim0n/note.git
+   cd note
    ```
 
 2. Copy and set up the script:
