@@ -36,6 +36,9 @@ A simple Bash script to manage notes directly from the terminal. Add, view, dele
    cp note.sh ~/.note.sh
    chmod +x ~/.note.sh
    echo '[ -f "$HOME/.note.sh" ] && source "$HOME/.note.sh"' >> ~/.bashrc && source ~/.bashrc
+or
+   ```echo '[ -f "$HOME/.note.sh" ] && source "$HOME/.note.sh"' >> ~/.zshrc && source ~/.zshrc```
+
    ```
 
 ---
